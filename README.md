@@ -10,7 +10,7 @@ This project focuses on predicting the **speed of an AC motor** based on various
 ## 🛠️ Technologies Used  
 - **Programming Language:** Python  
 - **Libraries:** Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn  
-- **Machine Learning Models:** Linear Regression, Random Forest, Neural Networks  
+- **Machine Learning Models:** Multiple Linear Regression, Random Forest, Neural Networks, Decision Tree, LightGBM, XGBoost.
 
 ## 📈 Approach  
 1. **Data Preprocessing**  
